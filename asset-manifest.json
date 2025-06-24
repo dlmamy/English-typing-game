@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/English-typing-game/static/css/main.e6c13ad2.css",
-    "main.js": "/English-typing-game/static/js/main.2260a616.js",
+    "main.js": "/English-typing-game/static/js/main.7f8fa383.js",
     "static/js/453.821c7d9b.chunk.js": "/English-typing-game/static/js/453.821c7d9b.chunk.js",
     "index.html": "/English-typing-game/index.html",
     "main.e6c13ad2.css.map": "/English-typing-game/static/css/main.e6c13ad2.css.map",
-    "main.2260a616.js.map": "/English-typing-game/static/js/main.2260a616.js.map",
+    "main.7f8fa383.js.map": "/English-typing-game/static/js/main.7f8fa383.js.map",
     "453.821c7d9b.chunk.js.map": "/English-typing-game/static/js/453.821c7d9b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.2260a616.js"
+    "static/js/main.7f8fa383.js"
   ]
 }
